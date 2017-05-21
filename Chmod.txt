@@ -1,0 +1,3 @@
+hadoop fs -put /home/jayant/max-temp.txt /user/acadgild/hadoop
+
+sudo -u hdfs hadoop fs -chmod -R g+w /user/acadgild/hadoop
